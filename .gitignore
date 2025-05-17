@@ -1,0 +1,12 @@
+*.o
+.DS_Store
+minishell
+.vscode
+.env
+minishell
+bin/
+obj/
+gitstats/
+.mailmap
+mailfix.md
+doxylog
